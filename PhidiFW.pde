@@ -1,3 +1,16 @@
+/*
+ *
+ * Phidi:X1 - the hands controlled MIDI controller.
+ *
+ * Developed by Alfred Pennarini
+ * Copyright (c) DBMO Laboratories Incorporated.
+ *
+ * www.dbmo.it
+ *
+ * Bari, Italy
+ *
+ */
+ 
 #include <CapSense.h>
 
 int knob1RawValue = 0;
